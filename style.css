@@ -1,0 +1,64 @@
+img{
+  width: 300px;
+  height: 300px;
+  border-radius: 10%;
+  border: 5px solid #555;
+}
+
+body {
+margin: 50px;
+position: centered;
+margin: 50px;
+background-color: lightblue;
+}
+
+h3, h2, h1{
+   text-align: center;
+  font-family: sans-serif;
+  color: blue;
+}
+
+ol{
+  background-color: Thistle;
+}
+
+p{
+    font-family: sans-serif;
+    font-size: .9rem;
+    
+  }
+
+.centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50%;
+}
+.centeredbutton {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  height: 20%;
+}
+
+button{
+  font-family: sans-serif;
+  color: blue;
+}
+
+
+li{
+  Font-size: 19px;
+  Color: green;
+  
+}
+
+p{
+  Font-size: 30px;
+  color: Orangered;
+  
+}
+
+.auto            { cursor: auto; }
